@@ -1,0 +1,65 @@
+#menu-2 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-2.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-2 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#msg-box3-8 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-8 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-15 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-15 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-18 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #ffffff;
+  font-size: 36px;
+}
+#msg-box3-18 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-18 .mbr-article UL {
+  color: #ffffff;
+}
+#content5-16 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+  font-size: 36px;
+}
+#content5-16 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-16 .mbr-article {
+  color: #fff;
+}
+#content5-16 .mbr-article UL {
+  text-align: left;
+}
+#msg-box2-18 .mbr-header .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box2-18 .mbr-article {
+  color: #252525;
+}
+#msg-box3-9 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-9 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box2-11 .mbr-header .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box2-11 .mbr-article {
+  color: #252525;
+}
